@@ -2,7 +2,7 @@
 
 ## 🔐 About Me
 
-I'm interested in cybersecurity and protecting computer systems and information. I build hands-on projects to develop practical skills in Linux, networking, and security.
+I'm pursuing a career in cybersecurity, with a focus on protecting computer systems and information. I build hands-on projects to develop practical skills in Linux, networking, and security.
 
 This profile showcases my projects, technical experience, and what I discover along the way.
 
